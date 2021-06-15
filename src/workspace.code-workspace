@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "TriMotorDRV8871",
+			"path": "../../TriMotorDRV8871"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
